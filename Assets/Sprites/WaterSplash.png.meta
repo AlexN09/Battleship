@@ -1,0 +1,696 @@
+fileFormatVersion: 2
+guid: b9c2d732aaf43154c99ca7f3a2d8cdee
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3109470909850504698
+    second: WaterSplash_0
+  - first:
+      213: -7609535237323443635
+    second: WaterSplash_1
+  - first:
+      213: -2027876315440518237
+    second: WaterSplash_2
+  - first:
+      213: -2368767539886661019
+    second: WaterSplash_3
+  - first:
+      213: -3205715758782977763
+    second: WaterSplash_4
+  - first:
+      213: -9177692410689661837
+    second: WaterSplash_5
+  - first:
+      213: -3673581181279213846
+    second: WaterSplash_6
+  - first:
+      213: -7447389970213424469
+    second: WaterSplash_7
+  - first:
+      213: -7373771848812239136
+    second: WaterSplash_8
+  - first:
+      213: 4572360671505134735
+    second: WaterSplash_9
+  - first:
+      213: -1740359438833560927
+    second: WaterSplash_10
+  - first:
+      213: 7903994299277808371
+    second: WaterSplash_11
+  - first:
+      213: 235865687645202636
+    second: WaterSplash_12
+  - first:
+      213: -2007287464530656788
+    second: WaterSplash_13
+  - first:
+      213: 2139753521422748101
+    second: WaterSplash_14
+  - first:
+      213: 5431892008758484318
+    second: WaterSplash_15
+  - first:
+      213: 2200493597289002331
+    second: WaterSplash_16
+  - first:
+      213: -426532118882398678
+    second: WaterSplash_17
+  - first:
+      213: 1661996702974966079
+    second: WaterSplash_18
+  - first:
+      213: 155286566657333631
+    second: WaterSplash_19
+  - first:
+      213: -423651446423505412
+    second: WaterSplash_20
+  - first:
+      213: -1505865821466158621
+    second: WaterSplash_21
+  - first:
+      213: 5762701065470360674
+    second: WaterSplash_22
+  - first:
+      213: 8523409670859147272
+    second: WaterSplash_23
+  - first:
+      213: 7307184141972098380
+    second: WaterSplash_24
+  - first:
+      213: -8337265263599709620
+    second: WaterSplash_25
+  - first:
+      213: -3701064541605191568
+    second: WaterSplash_26
+  - first:
+      213: -4432717358520503580
+    second: WaterSplash_27
+  - first:
+      213: -1197480752416153851
+    second: WaterSplash_28
+  - first:
+      213: -5279170556998968746
+    second: WaterSplash_29
+  - first:
+      213: -8050846694744709602
+    second: WaterSplash_30
+  - first:
+      213: 5961037713888896765
+    second: WaterSplash_31
+  - first:
+      213: 601845683940211580
+    second: WaterSplash_32
+  - first:
+      213: -8746561986151064021
+    second: WaterSplash_33
+  - first:
+      213: -1685459715354958686
+    second: WaterSplash_34
+  - first:
+      213: -8075499437198313797
+    second: WaterSplash_35
+  - first:
+      213: 2327422399264192587
+    second: WaterSplash_36
+  - first:
+      213: -4685245085405628554
+    second: WaterSplash_37
+  - first:
+      213: 7035849126184377804
+    second: WaterSplash_38
+  - first:
+      213: -6989084997548212190
+    second: WaterSplash_39
+  - first:
+      213: 130737242671586354
+    second: WaterSplash_40
+  - first:
+      213: -3974548530598194649
+    second: WaterSplash_41
+  - first:
+      213: -3323454679519954468
+    second: WaterSplash_42
+  - first:
+      213: 4113467722462097228
+    second: WaterSplash_43
+  - first:
+      213: 1918721187655101315
+    second: WaterSplash_44
+  - first:
+      213: 2933960876941596131
+    second: WaterSplash_45
+  - first:
+      213: 946886551197069384
+    second: WaterSplash_46
+  - first:
+      213: -8804548114894404662
+    second: WaterSplash_47
+  - first:
+      213: 2058178447724270601
+    second: WaterSplash_48
+  - first:
+      213: -9096211400037685406
+    second: WaterSplash_49
+  - first:
+      213: -1236279794863131545
+    second: WaterSplash_50
+  - first:
+      213: 4337039178291947265
+    second: WaterSplash_51
+  - first:
+      213: 8282764466322404670
+    second: WaterSplash_52
+  - first:
+      213: 5372099720679750123
+    second: WaterSplash_53
+  - first:
+      213: -4909562837319382615
+    second: WaterSplash_54
+  - first:
+      213: 6283763594761746421
+    second: WaterSplash_55
+  - first:
+      213: -2609444388098185307
+    second: WaterSplash_56
+  - first:
+      213: -5305892281645166000
+    second: WaterSplash_57
+  - first:
+      213: 7483382179402618899
+    second: WaterSplash_58
+  - first:
+      213: -4599222548137661421
+    second: WaterSplash_59
+  - first:
+      213: 742970563669706698
+    second: WaterSplash_60
+  - first:
+      213: 7357802877803606642
+    second: WaterSplash_61
+  - first:
+      213: 1831974194052463642
+    second: WaterSplash_62
+  - first:
+      213: 8932522929978312710
+    second: WaterSplash_63
+  - first:
+      213: 5227839856834619648
+    second: WaterSplash_64
+  - first:
+      213: -5694799525211275194
+    second: WaterSplash_65
+  - first:
+      213: -3542867551833162462
+    second: WaterSplash_66
+  - first:
+      213: 8042419360712135266
+    second: WaterSplash_67
+  - first:
+      213: -6849326333337544665
+    second: WaterSplash_68
+  - first:
+      213: 8191845759150777847
+    second: WaterSplash_69
+  - first:
+      213: 6843854292514032122
+    second: WaterSplash_70
+  - first:
+      213: -8240989350837730972
+    second: WaterSplash_71
+  - first:
+      213: 4923209931456844358
+    second: WaterSplash_72
+  - first:
+      213: -6193511674289084553
+    second: WaterSplash_73
+  - first:
+      213: -6547162401757523127
+    second: WaterSplash_74
+  - first:
+      213: 5340619045487233575
+    second: WaterSplash_75
+  - first:
+      213: 5424908228962188122
+    second: WaterSplash_76
+  - first:
+      213: 5663772450103544112
+    second: WaterSplash_77
+  - first:
+      213: 2456802519664722285
+    second: WaterSplash_78
+  - first:
+      213: -3186526917868369061
+    second: WaterSplash_79
+  - first:
+      213: 7729235306506167006
+    second: WaterSplash_80
+  - first:
+      213: -3642279393301082791
+    second: WaterSplash_81
+  - first:
+      213: -6169552275055779088
+    second: WaterSplash_82
+  - first:
+      213: -3027216690270017841
+    second: WaterSplash_83
+  - first:
+      213: 1141910025074727584
+    second: WaterSplash_84
+  - first:
+      213: 9022773126414204240
+    second: WaterSplash_85
+  - first:
+      213: 2355461796180666195
+    second: WaterSplash_86
+  - first:
+      213: -8470134044684910248
+    second: WaterSplash_87
+  - first:
+      213: 2468289433661300125
+    second: WaterSplash_88
+  - first:
+      213: -2380198004623567411
+    second: WaterSplash_89
+  - first:
+      213: -5523751123717264627
+    second: WaterSplash_90
+  - first:
+      213: -2741785523302653233
+    second: WaterSplash_91
+  - first:
+      213: -5460587006566729550
+    second: WaterSplash_92
+  - first:
+      213: 125488431269679375
+    second: WaterSplash_93
+  - first:
+      213: -8671688655460919145
+    second: WaterSplash_94
+  - first:
+      213: 6578396040234507842
+    second: WaterSplash_95
+  - first:
+      213: 1829273913813956658
+    second: WaterSplash_96
+  - first:
+      213: -666752902419835636
+    second: WaterSplash_97
+  - first:
+      213: 1028803497726991888
+    second: WaterSplash_98
+  - first:
+      213: -2332572738541722495
+    second: WaterSplash_99
+  - first:
+      213: 4105822322860815868
+    second: WaterSplash_100
+  - first:
+      213: 1553933426518243586
+    second: WaterSplash_101
+  - first:
+      213: 519027575375812999
+    second: WaterSplash_102
+  - first:
+      213: 5469691421639805619
+    second: WaterSplash_103
+  - first:
+      213: -977002087752162505
+    second: WaterSplash_104
+  - first:
+      213: -8716350699222009118
+    second: WaterSplash_105
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WaterSplash_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 357
+        width: 266
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dacbd2d07e3d5346900e01c3ee43436
+      internalID: -927860317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterSplash_1
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 357
+        width: 266
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c0927c13897ff9478f60d7edb6331a5
+      internalID: 1167811012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterSplash_2
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 357
+        width: 266
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08262bc5ff274e3449975e03a37eb1c5
+      internalID: -1624470143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterSplash_3
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 357
+        width: 266
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce61c5fd47680be4da2315712ba6bcd9
+      internalID: 610093747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterSplash_4
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 357
+        width: 266
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 082f6171bb1040e458b2df6f71c74ec2
+      internalID: 1819149989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterSplash_5
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 357
+        width: 266
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae1f577504a56842b14ae1b19bc8184
+      internalID: 1580727765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterSplash_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 91
+        width: 266
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb586504026f0d04298b9e228f811812
+      internalID: -1661330123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterSplash_7
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 91
+        width: 266
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74c2e472658d3b941b75509c8bcd9066
+      internalID: -681332672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterSplash_8
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 91
+        width: 266
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 624e4e10f1c31994abca3884af4433d5
+      internalID: 743687457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterSplash_9
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 91
+        width: 266
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 161c3469342d7ef40bd2c11b5593d045
+      internalID: 282853627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterSplash_10
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 91
+        width: 266
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fa57adfb2886574596beb59c436db41
+      internalID: 1116322130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 4a233a2e87ad8574194f18cfb05c45d3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      WaterSplash_0: -927860317
+      WaterSplash_1: 1167811012
+      WaterSplash_10: 1116322130
+      WaterSplash_2: -1624470143
+      WaterSplash_3: 610093747
+      WaterSplash_4: 1819149989
+      WaterSplash_5: 1580727765
+      WaterSplash_6: -1661330123
+      WaterSplash_7: -681332672
+      WaterSplash_8: 743687457
+      WaterSplash_9: 282853627
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
