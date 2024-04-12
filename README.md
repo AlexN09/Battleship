@@ -1,3 +1,4 @@
+![image](https://github.com/AlexN09/Battleship/blob/main/Assets/GameScreen.png)
 # Battleship Game in Unity
 
 This repository contains a clone of the classic Battleship game developed using Unity. It features a single-player mode where you can play against a simple computer-controlled opponent.
